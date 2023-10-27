@@ -1,15 +1,20 @@
-<h2 align="left">Hi 👋! My name is Ubish</h2>
+<h2 align="left">Hi! My name is Ubish uwu</h2>
+
+<img align="right" height="275" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VyYzFudHA4c3M5Nm8wbzk0b2drZ2poNnQzYjdnbm9nZzBob3E3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RfeRamqyXWg7SawPEY/giphy.gif"  />
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ubishuwu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ubishuwu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<img align="right" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VyYzFudHA4c3M5Nm8wbzk0b2drZ2poNnQzYjdnbm9nZzBob3E3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RfeRamqyXWg7SawPEY/giphy.gif"  />
+<p align="left">I'm Ubish from México<br>- ✨ Creating bugs since 2019<br>- 🔭 I’m currently student of Systems engineer jaja<br>- 📚 I'm currently learning Web Development<br>- ⚡ In my free time I play games and play some instruments 🎹🎸</p>
+
+###
+
+<h3 align="left">🛠 Some of the languages and tools I know:</h3>
 
 ###
 
@@ -59,9 +64,17 @@
 </div>
 
 ###
+###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Ubishuwu/Ubishuwu/output/snake.svg" alt="Snake animation" />
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ubishuwu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ubishuwu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ubishuwu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
