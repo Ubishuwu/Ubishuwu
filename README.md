@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Ubish from México<br>- ✨ Creating bugs since 2019<br>- 🔭 I’m currently student of Systems engineer jaja<br>- 📚 I'm currently learning Web Development<br>- ⚡ In my free time I play games and play some instruments 🎹🎸</p>
+<p align="left">I'm Ubish from México<br>- ✨ Creating bugs since 2019<br>- 🔭 I’m Systems Engineer owo<br>- 📚 I'm currently learning Web Development<br>- ⚡ In my free time I play games and play some instruments 🎹🎸</p>
 
 ###
 
